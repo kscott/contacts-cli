@@ -1,3 +1,7 @@
+> **This repository has been archived.** This tool has been merged into [kscott/get-clear](https://github.com/kscott/get-clear). Issues, history, and active development have moved there.
+
+---
+
 # contacts-cli
 
 A command-line tool that lets Claude search, manage, and export your Apple Contacts — just by asking.
